@@ -1,6 +1,6 @@
 import {createApp} from 'vue'
 
-import vuetify from "./plugins/vuetify";
+import vuetify from "./plugins/vuetify/index";
 
 import App from './App.vue'
 

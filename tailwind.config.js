@@ -2,8 +2,7 @@
 export default {
   //not needed if we remove color-pack and utilities from vuetify
   // prefix: 'tw-',
-  purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
-  content: [],
+  content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
     extend: {},
   },
