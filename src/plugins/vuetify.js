@@ -1,5 +1,4 @@
 import '../assets/main.scss'
-import '../assets/tailwind.css'
 import 'iconify-icon';
 import {createVuetify} from 'vuetify'
 
